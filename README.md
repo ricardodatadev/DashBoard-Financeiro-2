@@ -1,4 +1,4 @@
-# 🚀 Desenvolvi um dashboard utilizando Python, Streamlit e Plotly, com uma interface simples e interativa que facilita o acompanhamento dos principais indicadores financeiros.
+# 🚀 Dashboard utilizando Python, Streamlit e Plotly, com uma interface simples e interativa que facilita o acompanhamento dos principais indicadores financeiros.
 
 Para garantir uma estrutura organizada e fácil, venho sempre tentando organizar o máximo possível, separando o código por pastas:
 
